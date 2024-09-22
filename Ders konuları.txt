@@ -1,0 +1,16 @@
+1)node.js ve npm paketlerinin kurulum ve kontrolleri
+visual studio içindeki gereken araçların kurulması(bende kuruluydu)
+editör ile alakalı özelleştirme ayarları
+2)bootstrap kütüphanesinin kurulumu
+3)text ve başlık etiketleri
+mark,del,small,u(underline) etiketlerinin kullanınmı
+4)temel renkler ve kodları
+5)margin ve padding kullanımı
+6)kenarlık ve gölgelendirme
+7)hızalandırma ve Display
+8)tablolar
+9:css breakpoint
+10:butonlar
+11:form etiketleri, kontrolleri
+12:checkbox ve radiobutton
+13)Input Groups
